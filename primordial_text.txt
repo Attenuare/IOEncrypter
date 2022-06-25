@@ -1,0 +1,1 @@
+Caracteres alvos que serão encriptografados pelo IOEncrypter e então retornará para Caracteres reconhecidos.
